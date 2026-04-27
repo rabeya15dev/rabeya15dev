@@ -33,9 +33,6 @@ https://github.com/rabeya15dev?tab=repositories
   <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="40" height="40"/>
-</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
