@@ -81,8 +81,8 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/rabeya15dev
-- LinkedIn: Add Your LinkedIn URL
-- Email: rabeya.boshri003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rabeya-bosri-202364214/
+- Email: rabeya1012000@gmail.com
 
 ---
 
